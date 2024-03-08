@@ -6,7 +6,7 @@ class Mody(object):
     
     OWNER = os.environ.get("OWNER", "6449831912")
     
-    ID_BOT = int(os.environ.get("ID_BOT", ""6770027926:AAHfZ4-ujAukmacK3-HyVeXyxNxJgoNXYjM""))
+    ID_BOT = int(os.environ.get("ID_BOT", "6770027926"))
     
     USER_BOT = os.environ.get("USER_BOT", "snnsnsn_bot")
     
